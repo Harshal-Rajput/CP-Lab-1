@@ -12,3 +12,4 @@ int main()
         x=x+i;
     }
     printf("Sum of the first %d natural numbers is %d\n", n,x);
+ 
